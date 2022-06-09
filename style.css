@@ -1,0 +1,39 @@
+body
+{
+background-size: cover;
+}
+
+
+.heading
+{
+width: 100%;
+text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#restart{
+    background-color: #d5bcff;
+    color: #c6feff;
+    border-radius: 15px;
+    border-color: #d5bcff;
+    width:60px;
+    height:40px;
+    box-shadow: #ff70a6;
+}
+
+.copy_footer {
+    position: fixed;
+    color: #f5f5f5;
+    bottom: 0;
+    width: 100%;
+    background-color: #6c757d;
+    line-height: 2;
+    text-align: center;
+ }
